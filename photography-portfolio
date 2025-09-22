@@ -1,0 +1,9 @@
+photography-portfolio/
+├── index.html
+├── style.css
+├── script.js
+└── images/
+    ├── landscape1.jpg
+    ├── nature2.jpg
+    ├── portrait3.jpg
+    └── streetphotography4.jpg
